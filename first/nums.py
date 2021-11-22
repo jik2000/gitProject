@@ -2,6 +2,10 @@ def plus(_a, _b):
     return _a + _b
 
 
+def minus(_a, _b):
+    return _a - _b
+
+
 if __name__ == "__main__":
     a, b = 2, 3
     s = plus(a, b)
