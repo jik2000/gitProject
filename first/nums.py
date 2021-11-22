@@ -1,5 +1,7 @@
+# Урок по git: https://www.youtube.com/watch?v=9VKKZNqzPcE
+
 def plus(_a, _b):
-    return _a + _b
+    return 10 + _a + _b
 
 
 def minus(_a, _b):
